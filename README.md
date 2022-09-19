@@ -10,8 +10,7 @@ Eduardo Arellano Module 1 Challenge Assignment
 
 Application URL link;
 
-http://127.0.0.1:5500/activity/index.html
-
+https://arellanoe.github.io/module1-challenge-eduardo-arellano/
 
 
 ![module 1 website top](assets/images/website.png)
